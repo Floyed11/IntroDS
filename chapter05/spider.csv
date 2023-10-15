@@ -1,0 +1,868 @@
+Test Sponsor,System Name,Paralled,Base Threads,Base Results,Peak Results
+ASRock Rack Inc.,"1U4LW-X570 RPSU AMD Ryzen 7 5800X,3.8GHz",Yes,8,8,1
+ASRock Rack Inc.,1U4LW-B650/2L2T RPSU AMD Ryzen 9 7950X,Yes,16,16,1
+ASUSTeK Computer Inc.,"ASUS RS700-E9(Z11PP-D24) Server System (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS RS700-E9(Z11PP-D24) Server System (2.10 GHz, Intel Xeon Platinum 8176)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS WS C621E SAGE Server System (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS WS C621E SAGE Server System (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.10 GHz, Intel Xeon Platinum 8176)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (3.50 GHz, Intel Xeon Gold 6144)",Yes,16,16,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (3.40 GHz, Intel Xeon Gold 6128)",Yes,24,12,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.60 GHz, Intel Xeon Gold 6126)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (3.20 GHz, Intel Xeon Gold 6134)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (3.00 GHz, Intel Xeon Gold 6136)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (3.20 GHz, Intel Xeon Gold 6146)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.40 GHz, Intel Xeon Gold 5115)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.30 GHz, Intel Xeon Gold 6140)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.20 GHz, Intel Xeon Gold 5120)",Yes,28,28,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.10 GHz, Intel Xeon Gold 6130T)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.00 GHz, Intel Xeon Platinum 8153)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720Q-E9(Z11PH-D12) Server System (2.60 GHz, Intel Xeon Gold 6132)",Yes,28,28,2
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.80 GHz, Intel Xeon E-2186G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.70 GHz, Intel Xeon E-2176G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.30 GHz, Intel Xeon E-2136)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.80 GHz, Intel Xeon E-2174G)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS700-E9(Z11PP-D24) Server System (2.10 GHz, Intel Xeon Silver 4116)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.30 GHz, Intel Xeon E-2124)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.40 GHz, Intel Xeon E-2124G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.20 GHz, Intel Xeon E-2104G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.70 GHz, Intel Xeon Platinum 8280L)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.70 GHz, Intel Xeon Platinum 8280L)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.30 GHz, Intel Xeon E-2126G)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.50 GHz, Intel Xeon E-2146G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.60 GHz, Intel Xeon Gold 6244)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Platinum 8276M)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.50 GHz, Intel Xeon E-2134)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (1.90 GHz, Intel Xeon Gold 6238T)",Yes,44,44,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.30 GHz, Intel Xeon Gold 6246)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Platinum 8253)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.60 GHz, Intel Xeon E-2144G)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.10 GHz, Intel Xeon Gold 6230)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.50 GHz, Intel Xeon Gold 6248)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Gold 5220)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.70 GHz, Intel Xeon Gold 6226)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.00 GHz, Intel Xeon Gold 5217)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.30 GHz, Intel Xeon Gold 5218)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.30 GHz, Intel Xeon Gold 5218B)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.50 GHz, Intel Xeon Gold 5215)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.40 GHz, Intel Xeon E-2124G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.20 GHz, Intel Xeon E-2104G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.30 GHz, Intel Xeon E-2124)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Silver 4214)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.50 GHz, Intel Xeon Silver 4215)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.10 GHz, Intel Xeon Silver 4208)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Silver 4210)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.10 GHz, Intel Xeon Silver 4216)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.70 GHz, Intel Xeon E-2176G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (1.90 GHz, Intel Xeon Bronze 3204)",Yes,12,12,2
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.30 GHz, Intel Xeon E-2126G)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.50 GHz, Intel Xeon E-2134)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.30 GHz, Intel Xeon E-2136)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.60 GHz, Intel Xeon E-2144G)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.50 GHz, Intel Xeon E-2146G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS100-E10(P11C-M/4L) Server System (3.80 GHz, Intel Xeon E-2174G)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.25 GHz, AMD EPYC 7742",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.60 GHz, Intel Xeon Gold 6240M)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.10 GHz, Intel Xeon Gold 6252)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.80 GHz, Intel Xeon Platinum 8256)",Yes,16,8,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.40 GHz, Intel Xeon Platinum 8260M)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.00 GHz, AMD EPYC 7702P",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.90 GHz, AMD EPYC 7542",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.80 GHz, AMD EPYC 7402P",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.50 GHz, AMD EPYC 7502P",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.70 GHz, Intel Xeon E-2288G)",Yes,8,8,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 2.25 GHz, AMD EPYC 7742",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.00 GHz, AMD EPYC 7302P",Yes,16,16,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.30 GHz, AMD EPYC 7352",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 2.00 GHz, AMD EPYC 7702",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.80 GHz, Intel Xeon E-2276G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.40 GHz, Intel Xeon E-2278G)",Yes,8,8,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (4.00 GHz, Intel Xeon E-2286G)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (4.00 GHz, Intel Xeon E-2274G)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 2.80 GHz, AMD EPYC 7402",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 2.50 GHz, AMD EPYC 7502",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.20 GHz, AMD EPYC 7262",Yes,8,8,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 3.00 GHz, AMD EPYC 7302",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.25 GHz, AMD EPYC 7742",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.60 GHz, Intel Xeon E-2234)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.40 GHz, Intel Xeon E-2236)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.80 GHz, Intel Xeon E-2244G)",Yes,8,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.60 GHz, Intel Xeon E-2246G)",Yes,12,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.40 GHz, Intel Xeon E-2224)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.50 GHz, Intel Xeon E-2224G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E10(P11C-C/4L) Server System (3.40 GHz, Intel Xeon E-2226G)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 2.25 GHz, AMD EPYC 7742",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.70 GHz, Intel Xeon Gold 6258R)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.90 GHz, Intel Xeon Gold 6250)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 3.20 GHz, AMD EPYC 7F72",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.70 GHz, AMD EPYC 7F32",Yes,16,8,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.50 GHz, AMD EPYC 7F52",Yes,16,16,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.20 GHz, AMD EPYC 7F72",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.60 GHz, AMD EPYC 7H12",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 3.70 GHz, AMD EPYC 7F32",Yes,16,16,2
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 3.50 GHz, AMD EPYC 7F52",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.90 GHz, AMD EPYC 7272",Yes,24,12,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.80 GHz, AMD EPYC 7282",Yes,16,16,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.20 GHz, AMD EPYC 7552",Yes,48,48,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.00 GHz, AMD EPYC 7662",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.40 GHz, Intel Xeon Gold 6246R)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.10 GHz, AMD EPYC 7232P",Yes,16,8,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 3.10 GHz, AMD EPYC 7252",Yes,16,8,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.40 GHz, Intel Xeon Gold 6240R)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.60 GHz, Intel Xeon Gold 6256)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS700A-E9V2(KNPP-D32-R) Server System 2.00 GHz, AMD EPYC 7662",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (1.90 GHz, Intel Xeon Bronze 3206R)",Yes,16,16,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.40 GHz, Intel Xeon Silver 4210R)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.40 GHz, Intel Xeon Silver 4214R)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Gold 6238R)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.20 GHz, Intel Xeon Gold 5220R)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.10 GHz, Intel Xeon Gold 6230R)",Yes,52,52,2
+ASUSTeK Computer Inc.,"ASUS ESC4000A-E10(KRPG-U8) Server System 2.60 GHz, AMD EPYC 7H12",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.20 GHz, Intel Xeon Silver 4215R)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.00 GHz, Intel Xeon Gold 6248R)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.10 GHz, Intel Xeon Gold 5218R)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (2.90 GHz, Intel Xeon Gold 6226R)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS ESC8000 G4(Z11PG-D24) Server System (3.10 GHz, Intel Xeon Gold 6242R)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.30 GHz, AMD EPYC 7642",Yes,48,48,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.35 GHz, AMD EPYC 7452",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS500A-E10(KRPA-U16) Server System 2.40 GHz, AMD EPYC 7532",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (3.90 GHz, Intel Xeon Gold 6250)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (2.70 GHz, Intel Xeon Gold 6258R)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (3.00 GHz, Intel Xeon Gold 6248R)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (1.90 GHz, Intel Xeon Bronze 3206R)",Yes,16,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (2.40 GHz, Intel Xeon Silver 4210R)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (2.40 GHz, Intel Xeon Gold 6240R)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (3.40 GHz, Intel Xeon Gold 6246R)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (3.60 GHz, Intel Xeon Gold 6256)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS720-E9(Z11PP-D24) Server System (2.20 GHz, Intel Xeon Gold 6238R)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS700A-E11(KMPP-D32) Server System 2.45 GHz, AMD EPYC 7763",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.45 GHz, AMD EPYC 7763",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.00 GHz, AMD EPYC 7713",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS700A-E11(KMPP-D32) Server System 2.45 GHz, AMD EPYC 7763",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.95 GHz, AMD EPYC 75F3",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.80 GHz, AMD EPYC 7543",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.30 GHz, AMD EPYC 7643",Yes,96,96,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 3.20 GHz, AMD EPYC 74F3",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Platinum 8380)",Yes,80,80,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.60 GHz, Intel Xeon Platinum 8368Q)",Yes,76,76,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.45 GHz, AMD EPYC 7763",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.00 GHz, AMD EPYC 7663",Yes,112,112,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 3.70 GHz, AMD EPYC 72F3",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.60 GHz, AMD EPYC 7513",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.00 GHz, AMD EPYC 7713",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.95 GHz, AMD EPYC 75F3",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.00 GHz, AMD EPYC 7663",Yes,56,56,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 3.70 GHz, AMD EPYC 72F3",Yes,16,8,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.30 GHz, AMD EPYC 7643",Yes,48,48,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Platinum 8352V)",Yes,72,72,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Platinum 8352Y)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.80 GHz, Intel Xeon Platinum 8362)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (3.10 GHz, Intel Xeon Gold 6346)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 3.50 GHz, AMD EPYC 73F3",Yes,32,16,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 3.20 GHz, AMD EPYC 74F3",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.65 GHz, AMD EPYC 7413",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.60 GHz, AMD EPYC 7513",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 3.50 GHz, AMD EPYC 73F3",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.65 GHz, AMD EPYC 7413",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.75 GHz, AMD EPYC 7453",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Platinum 8351N)",Yes,36,36,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Platinum 8360Y)",Yes,72,72,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Platinum 8368)",Yes,76,76,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Gold 6336Y)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.85 GHz, AMD EPYC 7443",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.85 GHz, AMD EPYC 7443",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.75 GHz, AMD EPYC 7453",Yes,28,28,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.80 GHz, AMD EPYC 7543P",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 3.00 GHz, AMD EPYC 7313",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 3.20 GHz, AMD EPYC 7343",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 3.00 GHz, AMD EPYC 7313",Yes,32,16,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 3.20 GHz, AMD EPYC 7343",Yes,32,16,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 5318S)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 6338T)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.80 GHz, Intel Xeon Gold 6342)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (3.60 GHz, Intel Xeon Gold 6334)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.60 GHz, Intel Xeon Platinum 8358)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (3.00 GHz, Intel Xeon Gold 5317)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.00 GHz, Intel Xeon Gold 6330)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Platinum 8352S)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.60 GHz, Intel Xeon Platinum 8358P)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (3.20 GHz, Intel Xeon E-2388G)",Yes,8,8,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Platinum 8352M)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.45 GHz, AMD EPYC 7763",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.45 GHz, AMD EPYC 7763",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.00 GHz, Intel Xeon Gold 6338)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Gold 6338N)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Gold 6330N)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Gold 6312U)",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Gold 6314U)",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.90 GHz, Intel Xeon Gold 6326)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 5318Y)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (3.20 GHz, Intel Xeon Gold 5315Y)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 5318N)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (3.50 GHz, Intel Xeon E-2386G)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (3.10 GHz, Intel Xeon E-2324G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (2.80 GHz, Intel Xeon E-2378G)",Yes,8,8,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Gold 5320)",Yes,52,52,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Gold 5320T)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Silver 4314)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (3.70 GHz, Intel Xeon E-2374G)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (2.60 GHz, Intel Xeon E-2378)",Yes,8,8,1
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (3.20 GHz, Intel Xeon E-2356G)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Silver 4310)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Silver 4310T)",Yes,20,20,2
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Silver 4316)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (2.90 GHz, Intel Xeon E-2336)",Yes,6,6,1
+ASUSTeK Computer Inc.,"ASUS RS700-E10(Z12PP-D32) Server System (2.80 GHz, Intel Xeon Silver 4309Y)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (2.80 GHz, Intel Xeon E-2314)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS300-E11(P12R-M) Server System (3.40 GHz, Intel Xeon E-2334)",Yes,4,4,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.20 GHz, AMD EPYC 7773X",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.20 GHz, AMD EPYC 7773X",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 3.05 GHz, AMD EPYC 7373X",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.80 GHz, AMD EPYC 7473X",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E11(KMPP-D32) Server System 2.80 GHz, AMD EPYC 7573X",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.80 GHz, AMD EPYC 7473X",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 2.80 GHz, AMD EPYC 7573X",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E11(KMPA-U16) Server System 3.05 GHz, AMD EPYC 7373X",Yes,32,16,1
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Gold 6330N)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Silver 4310)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 5318S)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Gold 5320)",Yes,52,52,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.80 GHz, Intel Xeon Gold 6342)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Gold 6314U)",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.80 GHz, Intel Xeon Silver 4309Y)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Gold 6312U)",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (3.60 GHz, Intel Xeon Gold 6334)",Yes,16,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 6338T)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.60 GHz, Intel Xeon Gold 6348)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Platinum 8352S)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Silver 4314)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (3.10 GHz, Intel Xeon Gold 6346)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12(K14PA-U24) Server System 2.40 GHz, AMD EPYC 9654",Yes,96,96,1
+ASUSTeK Computer Inc.,"ASUS RS700A-E12(K14PP-D24) Server System 2.40 GHz, AMD EPYC 9654",Yes,192,192,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (3.00 GHz, Intel Xeon Gold 5317)",Yes,24,24,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.90 GHz, Intel Xeon Gold 6326)",Yes,32,32,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Platinum 8352V)",Yes,72,72,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.60 GHz, Intel Xeon Platinum 8368Q)",Yes,76,76,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11(Z13PP-D32) Server System (2.00 GHz, Intel Xeon Platinum 8480+)",Yes,112,112,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Platinum 8360Y)",Yes,72,72,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.80 GHz, Intel Xeon Platinum 8362)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 5318N)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Gold 6338N)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U(Z13PP-D32) Server System (2.00 GHz, Intel Xeon Platinum 8480+)",Yes,112,112,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U(Z13PP-D32) Server System (1.90 GHz, Intel Xeon Platinum 8490H)",Yes,120,120,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.10 GHz, Intel Xeon Gold 5318Y)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Gold 6336Y)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.20 GHz, Intel Xeon Platinum 8352Y)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (3.20 GHz, Intel Xeon Gold 5315Y)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Silver 4310T)",Yes,40,20,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Silver 4316)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Gold 5320T)",Yes,40,40,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Platinum 8460Y+)",Yes,80,80,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Platinum 8468H)",Yes,96,96,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (1.90 GHz, Intel Xeon Platinum 8490H)",Yes,120,120,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (4.10 GHz, AMD EPYC 9174F)",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (3.85 GHz, AMD EPYC 9374F)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.40 GHz, AMD EPYC 9654)",Yes,192,192,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.75 GHz, AMD EPYC 9454P)",Yes,48,48,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (3.10 GHz, AMD EPYC 9554)",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.40 GHz, AMD EPYC 9654)",Yes,96,96,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.70 GHz, Intel Xeon Platinum 8458P)",Yes,88,88,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.40 GHz, Intel Xeon Platinum 8468V)",Yes,96,96,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Platinum 8351N)",Yes,36,36,1
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.40 GHz, Intel Xeon Platinum 8368)",Yes,76,76,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (4.05 GHz, AMD EPYC 9274F)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (3.10 GHz, AMD EPYC 9554)",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (4.10 GHz, AMD EPYC 9174F)",Yes,32,16,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (3.25 GHz, AMD EPYC 9354P)",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (4.05 GHz, AMD EPYC 9274F)",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (3.60 GHz, AMD EPYC 9474F)",Yes,48,48,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (3.25 GHz, AMD EPYC 9354)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (3.60 GHz, AMD EPYC 9474F)",Yes,96,96,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.20 GHz, Intel Xeon Platinum 8460H)",Yes,80,80,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (1.70 GHz, Intel Xeon Platinum 8470N)",Yes,104,104,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Gold 6430)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Platinum 8452Y)",Yes,72,72,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.00 GHz, Intel Xeon Gold 6338)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (3.00 GHz, Intel Xeon Gold 6354)",Yes,36,36,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Platinum 8352M)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E10-RS12(Z12PP-D32) Server System (2.30 GHz, Intel Xeon Platinum 8380)",Yes,80,80,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Gold 6414U)",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.90 GHz, Intel Xeon Platinum 8444H)",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Platinum 8450H)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Platinum 8454H)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.25 GHz, AMD EPYC 9754)",Yes,128,128,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.25 GHz, AMD EPYC 9754)",Yes,256,256,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Platinum 8468)",Yes,96,96,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.20 GHz, Intel Xeon Gold 6454S)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.20 GHz, Intel Xeon Platinum 8461V)",Yes,48,48,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (1.80 GHz, Intel Xeon Platinum 8471N)",Yes,52,52,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.90 GHz, Intel Xeon Gold 5415+)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (3.70 GHz, Intel Xeon Gold 6434H)",Yes,32,16,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.60 GHz, Intel Xeon Gold 6442Y)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.70 GHz, Intel Xeon Silver 4410T)",Yes,40,20,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.70 GHz, AMD EPYC 9334)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Gold 5420+)",Yes,56,56,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (3.85 GHz, AMD EPYC 9374F)",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Gold 6448Y)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.25 GHz, AMD EPYC 9634)",Yes,84,84,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (1.80 GHz, Intel Xeon Gold 5418N)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.45 GHz, AMD EPYC 9534)",Yes,64,64,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (1.80 GHz, Intel Xeon Gold 6428N)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.75 GHz, AMD EPYC 9454)",Yes,96,96,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Gold 5416S)",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.25 GHz, AMD EPYC 9634)",Yes,168,168,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.90 GHz, AMD EPYC 9254)",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.70 GHz, AMD EPYC 9334)",Yes,32,32,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Gold 6438Y+)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.40 GHz, Intel Xeon Gold 6448H)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.20 GHz, Intel Xeon Gold 6438M)",Yes,64,64,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.50 GHz, AMD EPYC 9224)",Yes,24,24,1
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (3.00 GHz, AMD EPYC 9124)",Yes,32,16,1
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.45 GHz, AMD EPYC 9534)",Yes,128,128,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (3.00 GHz, AMD EPYC 9124)",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.50 GHz, AMD EPYC 9224)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.90 GHz, AMD EPYC 9254)",Yes,48,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.20 GHz, Intel Xeon Gold 6416H)",Yes,72,36,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Silver 4416+)",Yes,80,40,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.00 GHz, Intel Xeon Silver 4410Y)",Yes,48,24,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Gold 6418H)",Yes,96,48,2
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.10 GHz, Intel Xeon Gold 5412U)",Yes,48,24,1
+ASUSTeK Computer Inc.,"ASUS RS720-E11-RS12U (2.50 GHz, Intel Xeon Gold 6426Y)",Yes,64,32,2
+ASUSTeK Computer Inc.,"ASUS RS720A-E12-RS12 (2.55 GHz, AMD EPYC 9684X)",Yes,192,192,2
+ASUSTeK Computer Inc.,"ASUS RS520A-E12-RS12U (2.55 GHz, AMD EPYC 9684X)",Yes,96,96,1
+China Academy of Information and Communications Technology,"Huawei 1288H V5 (Intel Xeon Gold 5218R, 2.10 GHz)",Yes,40,40,2
+China Academy of Information and Communications Technology,"Huawei 1288H V5 (Intel Xeon Gold 5220R, 2.20 GHz)",Yes,48,48,2
+China Academy of Information and Communications Technology,"Huawei 2288H V5 (Intel Xeon Gold 5220R, 2.20 GHz)",Yes,48,48,2
+China Academy of Information and Communications Technology,Huawei CH121 V5 (Intel Xeon Gold 6258R),Yes,56,56,2
+China Academy of Information and Communications Technology,Huawei 5288 V5 (Intel Xeon Gold 6238R),Yes,56,56,2
+China Academy of Information and Communications Technology,Huawei 1288H V5 (Intel Xeon Gold 6238R),Yes,56,56,2
+China Academy of Information and Communications Technology,Huawei 2288H V5 (Intel Xeon Gold 6238R),Yes,56,56,2
+China Academy of Information and Communications Technology,Huawei 2488H V5 (Intel Xeon Platinum 8268),Yes,96,96,4
+China Academy of Information and Communications Technology,Huawei CH121 V5 (Intel Xeon Gold 6246R),Yes,32,32,2
+China Academy of Information and Communications Technology,Huawei 2288H V5 (Intel Xeon Gold 6246R),Yes,32,32,2
+China Academy of Information and Communications Technology,Huawei 5288 V5 (Intel Xeon Gold 6246R),Yes,32,32,2
+China Academy of Information and Communications Technology,Huawei 1288H V5 (Intel Xeon Gold 6246R),Yes,32,32,2
+China Academy of Information and Communications Technology,Huawei 2288H V6 (Intel Xeon Platinum 8380),Yes,80,80,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8180, 2.50GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20GHz)",Yes,28,28,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5118, 2.30GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8156, 3.60GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140, 2.30GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8180, 2.50GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8180, 2.50GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8158, 3.00GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6132, 2.60GHz)",Yes,28,28,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8176, 2.10GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6146, 3.20GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8170, 2.10GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8158, 3.00GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20GHz)",Yes,28,28,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 5115, 2.40GHz)",Yes,40,40,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8180, 2.50GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 5118, 2.30GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6134M, 3.20GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8180M, 2.50GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8180, 2.50GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6142M, 2.60GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8160M, 2.10 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6140M, 2.30 GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6146, 3.20 GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8176M, 2.10 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4112, 2.60 GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8170M, 2.10 GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8170M, 2.10 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6134, 3.20 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6126, 2.60 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4116, 2.10 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4114, 2.20 GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4110, 2.10 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4110, 2.10 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4112, 2.60 GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6136, 3.00 GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6142, 2.60 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5122, 3.60 GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6146, 3.20 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8180M, 2.50 GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6128, 3.40 GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4116, 2.10 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6128, 3.40 GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6152, 2.10 GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6134M, 3.20 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8180M, 2.50 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4114, 2.20 GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6130, 2.10 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5115, 2.40 GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Bronze 3104, 1.70 GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6136, 3.00 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Bronze 3106, 1.70 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6130, 2.10 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6134, 3.20 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8180, 2.50 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6150, 2.70 GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4108, 1.80 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Bronze 3106, 1.70 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5118, 2.30 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6140, 2.30 GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4108, 1.80 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6148, 2.40 GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8160, 2.10 GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8180, 2.50 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6138, 2.00 GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6140, 2.30 GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8164, 2.00 GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6144, 3.50 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8160, 2.10 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6148, 2.40 GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8164, 2.00 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8160M, 2.10 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Bronze 3104, 1.70 GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6142M, 2.60 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 5120, 2.20 GHz)",Yes,56,56,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6130, 2.10 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8170M, 2.10 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6140, 2.30 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6140M, 2.30 GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8176M, 2.10 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8156, 3.60 GHz)",Yes,16,16,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6154, 3.00 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,96,96,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6132 2.60 GHz),Yes,56,56,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6150 2.70 GHz),Yes,72,72,4
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Platinum 8160 2.10 GHz),Yes,96,96,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 5122 3.60 GHz),Yes,16,16,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6134M 3.20 GHz),Yes,32,32,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6126 2.60 GHz),Yes,48,48,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6142 2.60 GHz),Yes,64,64,4
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Platinum 8164 2.00 GHz),Yes,104,104,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6142M 2.60 GHz),Yes,64,64,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6134 3.20 GHz),Yes,32,32,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6128 3.40 GHz),Yes,24,24,4
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6152 2.10 GHz),Yes,44,44,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8164, 2.00 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8176M, 2.10 GHz)",Yes,112,112,4
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Gold 6148 2.40 GHz),Yes,80,80,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8170M, 2.10 GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8160M, 2.10 GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6140M, 2.30 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8158, 3.00 GHz)",Yes,48,48,4
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Gold 6152 2.10 GHz),Yes,88,88,4
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,32,32,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6154 3.00 GHz),Yes,36,36,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6134 3.20 GHz),Yes,16,16,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6130 2.10 GHz),Yes,32,32,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Platinum 8168 2.70 GHz),Yes,48,48,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6126 2.60 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6142 2.60 GHz),Yes,32,32,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6136 3.00 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6150 2.70 GHz),Yes,36,36,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 5120 2.20 GHz),Yes,28,28,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6128 3.40 GHz),Yes,12,12,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6144 3.50 GHz),Yes,16,16,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6132 2.60 GHz),Yes,28,28,2
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Gold 6144 3.50 GHz),Yes,32,32,4
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Gold 6130 2.10 GHz),Yes,64,64,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6152 2.10 GHz),Yes,88,88,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6144 3.50 GHz),Yes,32,32,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6138 2.00 GHz),Yes,80,80,4
+Cisco Systems,Cisco UCS B480 M5 (Intel Xeon Gold 6130 2.10 GHz),Yes,64,64,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8176, 2.10 GHz)",Yes,112,112,4
+Cisco Systems,Cisco UCS C480 M5 (Intel Xeon Gold 6146 3.20 GHz),Yes,48,48,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6150, 2.70 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8156, 3.60 GHz)",Yes,16,16,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6154, 3.00 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6132, 2.60 GHz)",Yes,28,28,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6142, 2.60 GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8164, 2.00 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6126, 2.60 GHz)",Yes,24,24,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Platinum 8176M 2.10 GHz),Yes,56,56,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Silver 4114 2.20 GHz),Yes,20,20,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Silver 4116 2.10 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Silver 4112 2.60 GHz),Yes,8,8,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Silver 4110 2.10 GHz),Yes,16,16,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Platinum 8170M 2.10 GHz),Yes,52,52,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Bronze 3106 1.70 GHz),Yes,16,16,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6142M 2.60 GHz),Yes,32,32,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Silver 4108 1.80 GHz),Yes,16,16,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6140 2.30 GHz),Yes,36,36,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Bronze 3104 1.70 GHz),Yes,12,12,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 5122 3.60 GHz),Yes,8,8,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 5118 2.30 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 5115 2.40 GHz),Yes,20,20,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6130 2.10 GHz),Yes,32,32,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 5118 2.30 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6154 3.00 GHz),Yes,36,36,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6146 3.20 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6148 2.40 GHz),Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,32,32,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6136 3.00 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6148 2.40 GHz),Yes,40,40,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6142, 2.60 GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140, 2.30 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6136, 3.00 GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6126, 2.60 GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6134, 3.20 GHz)",Yes,32,32,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5120, 2.20 GHz)",Yes,56,56,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6128, 3.40 GHz)",Yes,24,24,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5118, 2.30 GHz)",Yes,48,48,4
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 5115 2.40 GHz),Yes,20,20,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Platinum 8156 3.60 GHz),Yes,8,8,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6140 2.30 GHz),Yes,36,36,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 5122 3.60 GHz),Yes,8,8,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6138 2.00 GHz),Yes,40,40,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 6144 3.50 GHz),Yes,16,16,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Gold 5120 2.20 GHz),Yes,28,28,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Platinum 8176 2.10 GHz),Yes,56,56,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Platinum 8170 2.10 GHz),Yes,52,52,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Platinum 8158 3.00 GHz),Yes,24,24,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Platinum 8160 2.10 GHz),Yes,48,48,2
+Cisco Systems,Cisco UCS C220 M5 (Intel Xeon Platinum 8180 2.50 GHz),Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8156, 3.60 GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6134M, 3.20 GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8176, 2.10 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6140M, 2.30 GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8160M, 2.10 GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8158, 3.00 GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6138, 2.00 GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8180M, 2.50 GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5115, 2.40 GHz)",Yes,40,40,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6134M, 3.20 GHz)",Yes,32,32,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6138, 2.00 GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5122, 3.60 GHz)",Yes,16,16,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8176, 2.10 GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140M, 2.30 GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6142M, 2.60 GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8176M, 2.10 GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8160M, 2.10 GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6132, 2.60 GHz)",Yes,56,56,4
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8280, 2.70GHz)",Yes,28,28,1
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8280, 2.70GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8280, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6242, 2.80GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4208, 2.10GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4215, 2.50GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4216, 2.10GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6238, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6230, 2.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6240, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6254, 3.10GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8280M, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6248, 2.50GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6240, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6248, 2.50GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5220, 2.20GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6252, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4216, 2.10GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5222, 3.80GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6240L, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6244, 3.60GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6246, 3.30GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5215M, 2.50GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8280L, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6238M, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5215, 2.50GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6238L, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6240M, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5220, 2.20GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6230, 2.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4216, 2.10GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6244, 3.60GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5218, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8280, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8260, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5222, 3.80GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8270, 2.70GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4210, 2.20GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5215, 2.50GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6242, 2.80GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6254, 3.10GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8280M, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Bronze 3204, 1.90GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4208, 2.10GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6226, 2.70GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8253, 2.20GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6240, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6252, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8270, 2.70GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Bronze 3204, 1.90GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6226, 2.70GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8260, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4214, 2.20GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8253, 2.20GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8256, 3.80GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8276, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6246, 3.30GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6244, 3.60GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4210, 2.20GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4215, 2.50GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8260L, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4208, 2.10GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6262V, 1.90GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8276L, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6222V, 1.80GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6246, 3.30GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6226, 2.70GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5215M, 2.50GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8276L, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8260L, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5218N, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5220S, 2.70GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6230N, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6252N, 2.30GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6230N, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6238M, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6240M, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5220S, 2.70GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6240L, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6238L, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6262V, 1.90GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6252N, 2.30GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8260, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6222V, 1.80GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6240Y, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5218B, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4210, 2.20GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Bronze 3204, 1.90GHz)",Yes,12,12,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5215M, 2.50GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5215, 2.50GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5222, 3.80GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8253, 2.20GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8270, 2.70GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8280L, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5218B, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5218, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6230, 2.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6252, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6244, 3.60GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6262V, 1.90GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6240Y, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6240M, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4214, 2.20GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5218N, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6222V, 1.80GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6240, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6254, 3.10GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5220S, 2.70GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8280M, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8260M, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4214, 2.20GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8256, 3.80GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5218N, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6238L, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6242, 2.80GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8260Y, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8276, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8256, 3.80GHz)",Yes,8,8,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6238M, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6240, 2.60GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6240L, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6254, 3.10GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8276L, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6230N, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8260, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6240Y, 2.60GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5220, 2.20GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5218B, 2.30GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6238, 2.10GHz)",Yes,44,44,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6222V, 1.80GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5215, 2.50GHz)",Yes,40,40,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8280M, 2.70GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5222, 3.80GHz)",Yes,16,16,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8268, 2.90GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6262V, 1.90GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8270, 2.70GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6248, 2.50GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6246, 3.30GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6242, 2.80GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6244, 3.60GHz)",Yes,32,32,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6238, 2.10GHz)",Yes,88,88,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6226, 2.70GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6238M, 2.10GHz)",Yes,88,88,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6240Y, 2.60GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8260M, 2.40GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6240L, 2.60GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6238L, 2.10GHz)",Yes,88,88,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5218, 2.30GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8260Y, 2.40GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8260L, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8280, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5215M, 2.50GHz)",Yes,40,40,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8280L, 2.70GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8276, 2.20GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8260, 2.40GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6248, 2.50GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8270, 2.70GHz)",Yes,104,104,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8256, 3.80GHz)",Yes,16,16,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6240, 2.60GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6244, 3.60GHz)",Yes,32,32,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6246, 3.30GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8260L, 2.40GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8276L, 2.20GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8280, 2.70GHz)",Yes,112,112,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8260M, 2.40GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6240L, 2.60GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6242, 2.80GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6248, 2.50GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6252, 2.10GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6240M, 2.60GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5220, 2.20GHz)",Yes,72,72,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Platinum 8268, 2.90GHz)",Yes,96,96,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6238, 2.10GHz)",Yes,88,88,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 6226, 2.70GHz)",Yes,48,48,4
+Cisco Systems,"Cisco UCS B480 M5 (Intel Xeon Gold 5218, 2.30GHz)",Yes,64,64,4
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8268, 2.90GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6248, 2.50GHz)",Yes,80,80,4
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6242R, 3.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5220R, 2.20GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4214R, 2.40GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6246R, 3.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6238R, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4215R, 3.20GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6226R, 2.90GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6248R, 3.00GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6258R, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5218R, 2.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Bronze 3206R, 1.90GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4210R, 2.40GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6240R, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6230R, 2.10GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6246R, 3.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5218R, 2.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6240R, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6242R, 3.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4210R, 2.40GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6248R, 3.00GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5220R, 2.20GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6230R, 2.10GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6238R, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4215R, 3.20GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6258R, 2.70GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4214R, 2.40GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6226R, 2.90GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Bronze 3206R, 1.90GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6240R, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5220R, 2.20GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4214R, 2.40GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Silver 4210R, 2.40GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5218R, 2.10GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6226R, 2.90GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6230R, 2.10GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6246R, 3.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6242R, 3.10GHz)",Yes,40,40,2
+Cisco Systems,Cisco UCS C245 M6 (AMD EPYC 7763 64-Core Processor),Yes,64,64,1
+Cisco Systems,Cisco UCS C245 M6 (AMD EPYC 7763 64-Core Processor),Yes,128,128,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6346, 3.10GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6348, 2.60GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Silver 4314, 2.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8368Q, 2.60GHz)",Yes,76,76,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Silver 4316, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5320, 2.20GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6346, 3.10GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8358P, 2.60GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 6336Y, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Silver 4310, 2.10GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Silver 4314, 2.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5317, 3.00GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6336Y, 2.40GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8358, 2.60GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8368Q, 2.60GHz)",Yes,76,76,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Silver 4310, 2.10GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8352Y, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 5318S, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Silver 4314, 2.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6342, 2.80GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Silver 4309Y, 2.80GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5318N, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5318S, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5318Y, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5320T, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6330N, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6338N, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6338T, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6348, 2.60GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Silver 4316, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Silver 4310, 2.10GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 5317, 3.00GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Silver 4309Y, 2.80GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 5320, 2.20GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6326, 2.90GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6334, 3.60GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 5318Y, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 6338, 2.00GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8351N, 2.40GHz)",Yes,36,36,1
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8352S, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 6338N, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Silver 4309Y, 2.80GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C225 M6 (AMD EPYC 7763 64-Core, Processor)",Yes,128,128,2
+Cisco Systems,"Cisco UCS C225 M6 (AMD EPYC 7713 64-Core, Processor)",Yes,128,128,2
+Cisco Systems,"Cisco UCS C225 M6 (AMD EPYC 7713 64-Core, Processor)",Yes,64,64,1
+Cisco Systems,Cisco UCS C225 M6 (AMD EPYC 7413 64-Core Processor),Yes,48,48,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Silver 4310T, 2.30GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 5315Y, 3.20GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6312U, 2.40GHz)",Yes,24,24,1
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6314U, 2.30GHz)",Yes,32,32,1
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8351N, 2.40GHz)",Yes,36,36,1
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8352S, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8352Y, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8358P, 2.60GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 6330N, 2.20GHz)",Yes,56,56,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 5318S, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Silver 4310T, 2.30GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 6338T, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 5315Y, 3.20GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 5318N, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 5320T, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Silver 4310T, 2.30GHz)",Yes,20,20,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8352Y, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8352V, 2.10GHz)",Yes,72,72,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 5315Y, 3.20GHz)",Yes,16,16,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8352V, 2.10GHz)",Yes,72,72,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Gold 6354, 3.00GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8360Y, 2.40GHz)",Yes,72,72,2
+Cisco Systems,"Cisco UCS B200 M6 (Intel Xeon Platinum 8380, 2.30GHz)",Yes,80,80,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8352V, 2.10GHz)",Yes,72,72,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8368, 2.40GHz)",Yes,76,76,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Platinum 8380, 2.30GHz)",Yes,80,80,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 5318N, 2.10GHz)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C240 M6 (Intel Xeon Gold 5320T, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8380, 2.30GHz)",Yes,80,80,2
+Cisco Systems,Cisco UCS C225 M6 (AMD EPYC 7663 56-Core Processor),Yes,112,112,2
+Cisco Systems,Cisco UCS C225 M6 (AMD EPYC 7643 48-Core Processor),Yes,96,96,2
+Cisco Systems,Cisco UCS C225 M6 (AMD EPYC 75F3 32-Core Processor),Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6314U, 2.30GHz)",Yes,32,32,1
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6312U, 2.40GHz)",Yes,24,24,1
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6338, 2.00GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8351N, 2.40GHz)",Yes,36,36,1
+Cisco Systems,"Cisco UCS C245 M6 (AMD EPYC 7352 24-Core, Processor)",Yes,48,48,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8368Q, 2.60GHz)",Yes,76,76,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8358, 2.60GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Gold 6354, 3.00GHz)",Yes,36,36,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8360Y, 2.40GHz)",Yes,72,72,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8352S, 2.20GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8358P, 2.60GHz)",Yes,64,64,2
+Cisco Systems,"Cisco UCS C220 M6 (Intel Xeon Platinum 8368, 2.40GHz)",Yes,76,76,2
+Cisco Systems,"Cisco UCS X210c M6 (Intel Xeon Silver 4310, 2.10GHz)",Yes,24,24,2
+Cisco Systems,"Cisco UCS X210c M6 (Intel Xeon Silver 4314, 2.40GHz)",Yes,32,32,2
+Cisco Systems,"Cisco UCS X210c M6 (Intel Xeon Silver 4316, 2.30GHz)",Yes,40,40,2
+Cisco Systems,"Cisco UCS X210c M6 (Intel Xeon Gold 5320, 2.20GHz)",Yes,52,52,2
+Cisco Systems,"Cisco UCS X210c M6 (Intel Xeon Gold 6326, 2.90GHz)",Yes,32,32,2
