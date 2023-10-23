@@ -5,23 +5,7 @@ import matplotlib.pyplot as plt
 num = 100
 samples = numpy.random.standard_normal(num)
 
-# print(samples)
-
-# index = 0.1
-# cnt = {}
-# xlist = []
-# i = -400
-# while i <= 400:
-#     cnt[i] = 0
-#     xlist.append(i)
-#     i += 1
-
-# for i in samples:
-#     cnt[int(i*100)] += 1
-
-# plt.plot(xlist, cnt.values())
-
-# plt.scatter(samples, numpy.zeros(num), marker='o', color='r')
+print(samples)
 
 import seaborn as sns
 

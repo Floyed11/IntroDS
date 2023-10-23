@@ -21,4 +21,5 @@ while (1):
     X = temp
     ev = newev
 
+print(newev)
 print(X)
